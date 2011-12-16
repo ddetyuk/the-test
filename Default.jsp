@@ -26,9 +26,7 @@
 </HEAD>
 <BODY>
 <CENTER>
-<h2>FusionCharts dataURL and Database</h2>
-<h4>Click on any pie slice to slice it out.Or, right click to enable
-rotation mode.</h4>
+
 <%
 	/*
 	In this example, we show how to connect FusionCharts to a database 
