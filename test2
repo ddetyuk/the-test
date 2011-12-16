@@ -1,8 +1,4 @@
-<%@ page import ="com.fusioncharts.FusionChartsHelper"%>
-<% // We have imported the above file for using encodeDataURL method
-%>
-<HTML>
-<HEAD>
+
 <TITLE>FusionCharts - dataURL and Database Example</TITLE>
 <%
 	/*You need to include the following JS file, if you intend to embed the chart using JavaScript.
